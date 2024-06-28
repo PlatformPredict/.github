@@ -9,7 +9,7 @@ We hope you enjoy our app and theres even more to come!<br>
 
 ## Useful Information
 
-We host a community server based on Discord which is joinable via [discord.gg/6gmj6ucaKH](https://discord.gg/6gmj6ucaKH).
+We host a community server based on Discord which is joinable via [discord.gg/6gmj6ucaKH](https://discord.gg/6gmj6ucaKH).<br>
 Here you can meet our friendly and aspiring community which will do their best to help you if needed.
 
 If you are ever in doubt that PlatformPredict is having an outage or maintenance, check our [status page](https://status.platformpredict.co.uk).
